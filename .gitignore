@@ -1,0 +1,6 @@
+node_modules
+.terraform
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+ecr-repo
